@@ -2,7 +2,7 @@
 Calendar Creation Program
 This simple Python program allows users to generate a calendar for a specific month and year. It utilizes the calendar module to display the calendar based on user-inputted values for the year and month.
 
-Prerequisites
+# Prerequisites
 Python 3.x installed on your system
 Getting Started
 
@@ -11,7 +11,7 @@ Follow the On-Screen Instructions:
 Input the desired year when prompted.
 Input the desired month when prompted.
 
-Usage:
+# Usage:
 Upon running the program, users will be asked to input the year and month they want to generate a calendar for.
 After entering the year and month, the program will display the calendar for that specific month and year.
 
